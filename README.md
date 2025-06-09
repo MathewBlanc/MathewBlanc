@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathewBlanc?theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathewBlanc&theme=gruvbox&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Matt's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewBlanc&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MathewBlanc/MathewBlanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
